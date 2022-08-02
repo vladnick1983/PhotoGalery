@@ -47,3 +47,4 @@ export const createCardPhoto = (data) => {
   card.append(cardItem);
   return card;
 };
+
